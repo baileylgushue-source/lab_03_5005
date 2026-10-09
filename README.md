@@ -57,3 +57,11 @@ I made two tests to check that my `Show` class works properly, including when in
 | `shows_per_genre()` | `GenreAggregation.compute()` in `aggregations.py` |
 | `shows_per_language()` | `LanguageAggregation.compute()` in `aggregations.py` |
 | `build_summary()` | `build_summary()`
+
+## Test Results
+
+I ran my program and it successfully created the summary.json file.
+
+I also ran my two tests and both passed.
+
+The program counted 240 TV shows, which matches my Lab 02 results.
